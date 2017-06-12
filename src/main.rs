@@ -20,7 +20,7 @@ impl State for Game
 {
     fn on_start(&mut self, _: &mut World, _: &mut AssetManager, pipeline: &mut Pipeline)
     {
-        let clear_layer = Layer::new("main", vec![Clear::new([0.0, 0.0, 0.0, 1.0])]);
+        let clear_layer = Layer::new("main", vec![Clear::new([0.4, 0.5, 0.7, 1.0])]);
         pipeline.layers = vec![clear_layer];
     }
 

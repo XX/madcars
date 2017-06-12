@@ -1,6 +1,6 @@
 [root]
 name = "madcars"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "amethyst 0.4.3 (git+https://github.com/amethyst/amethyst.git?branch=develop)",
 ]
