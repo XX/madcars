@@ -1,6 +1,6 @@
 # ---
 # display_config:
-dimensions: [640, 480]
+dimensions: [1024, 640]
 fullscreen: false 
 max_dimensions: null
 min_dimensions: null
