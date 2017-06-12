@@ -5,3 +5,5 @@ authors = ["XX <freecoder.xx@gmail.com>"]
 
 [dependencies]
 amethyst = { git = "https://github.com/amethyst/amethyst.git", branch = "develop" }
+genmesh = "*"
+cgmath = "*"
