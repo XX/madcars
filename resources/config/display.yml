@@ -1,0 +1,10 @@
+# ---
+# display_config:
+dimensions: [640, 480]
+fullscreen: false 
+max_dimensions: null
+min_dimensions: null
+multisampling: 1
+title: "MadCars Game"
+visibility: true
+vsync: true
